@@ -5,7 +5,7 @@
 package com.mycompany.parcial1_reyesvaldezmarco_web_operaciones_9a;
 
 import jakarta.jws.WebService;
-import jakarta.jws.WebMethod;
+import jakarta.jws.WebMethod;   
 import jakarta.jws.WebParam;
 
 /**
